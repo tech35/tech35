@@ -1,6 +1,6 @@
 ## Welcome to the GitHub Profile of Bilawal Asghar
 
-⚡Fun Fact about me: I am currently 12 years old and I will be turning thirteen this month.
+⚡Fun Fact about me: I am currently 12 years old and I will be turning thirteen this month!
 
 📫 How to reach me: Email me at asgharbilawal6@gmail.com
 
