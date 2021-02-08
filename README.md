@@ -1,5 +1,7 @@
 ## Welcome to the GitHub Profile of Bilawal Asghar
 
+![GitHub followers](https://img.shields.io/github/followers/tech35?label=Follow&style=social)
+
 [![Gitter](https://badges.gitter.im/tech35/community.svg)](https://gitter.im/tech35/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ![Profile views](https://gpvc.arturio.dev/tech35)
