@@ -1,6 +1,6 @@
 ## Welcome to the GitHub Profile of Bilawal Asghar
 
-![Profile Views](https://komarev.com/ghpvc/?username=tech35)
+![Profile views](https://gpvc.arturio.dev/tech35)
 
 ⚡Fun Fact about me: I am currently 12 years old and I will be turning thirteen this month!
 
