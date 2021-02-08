@@ -2,7 +2,7 @@
 
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 
-[Follow me on Reddit](https://github.com/user/repo/blob/branch/other_file.md)
+[Follow me on Reddit](https://reddit.com/user/tech-35/)
 
 ![GitHub followers](https://img.shields.io/github/followers/tech35?label=Follow&style=social)
 
