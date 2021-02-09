@@ -10,6 +10,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/tech35)
 
-⚡Fun Fact about me: I am currently 12 years old and I will be turning thirteen this month!
-
 📫 How to reach me: Email me at asgharbilawal6@gmail.com
