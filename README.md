@@ -4,8 +4,8 @@ To contact me you can either use my community on Gitter, email me at asgharbilaw
 
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 
-[![Gitter](https://badges.gitter.im/tech35/community.svg)](https://gitter.im/tech35/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 [My Profile on Reddit](https://reddit.com/user/tech-35/)
+
+[![Gitter](https://badges.gitter.im/tech35/community.svg)](https://gitter.im/tech35/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ![Profile views](https://gpvc.arturio.dev/tech35)
