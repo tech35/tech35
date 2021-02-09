@@ -4,8 +4,6 @@
 
 [Follow me on Reddit](https://reddit.com/user/tech-35/)
 
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/tech-35?label=tech35%20Karma&style=social)
-
 ![GitHub followers](https://img.shields.io/github/followers/tech35?label=Follow&style=social)
 
 [![Gitter](https://badges.gitter.im/tech35/community.svg)](https://gitter.im/tech35/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
