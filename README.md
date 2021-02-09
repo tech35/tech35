@@ -8,6 +8,4 @@ To contact me you can either use my community on Gitter, email me at asgharbilaw
 
 [My Profile on Reddit](https://reddit.com/user/tech-35/)
 
-![GitHub followers](https://img.shields.io/github/followers/tech35?label=Follow&style=social)
-
 ![Profile views](https://gpvc.arturio.dev/tech35)
