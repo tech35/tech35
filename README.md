@@ -3,7 +3,7 @@
 To contact me you can either use my community on Gitter, email me at asgharbilawal6@gmail.com, or chat with me on Reddit
 
 
-[![tech35 GitHub stats](https://github-readme-stats.vercel.app/api?username=tech35)](https://github.com/anuraghazra/github-readme-stats)
+![tech35's GitHub stats](https://github-readme-stats.vercel.app/api?username=tech35&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tech35&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
