@@ -7,6 +7,6 @@ To contact me you can either use my community on Gitter, email me at asgharbilaw
 
 ![tech35's GitHub stats](https://github-readme-stats.vercel.app/api?username=tech35&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tech35&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tech35)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href = "https://reddit.com/user/tech35/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>   <a href = "mailto:asgharbilawal6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>   <a href = "https://python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>   [![Gitter](https://badges.gitter.im/tech35/community.svg)](https://gitter.im/tech35/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)   
