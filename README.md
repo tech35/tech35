@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/tech35)
+![ ](https://komarev.com/ghpvc/?username=tech35)
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi There and Welcome to the GitHub Profile of Bilawal Asghar  
 
