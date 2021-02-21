@@ -1,4 +1,6 @@
-![ ](https://komarev.com/ghpvc/?username=tech35&label=Profile+views)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftech35&count_bg=%233D7CC8&title_bg=%232282AC&icon=github.svg&icon_color=%23000000&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi There and Welcome to the GitHub Profile of Bilawal Asghar  
 
