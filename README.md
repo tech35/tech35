@@ -6,7 +6,7 @@
 
 
 
-![tech35's GitHub stats](https://github-readme-stats.vercel.app/api?username=tech35&count_private=true&theme=dark)
+![tech35's GitHub stats](https://github-readme-stats.vercel.app/api?username=tech35&count_private=true)
 
 
 
