@@ -33,6 +33,4 @@ Contact:
 
 ----------
 
-Support Me:
-
 <a href = "https://cash.app/$tech3510"><img src = "https://img.shields.io/badge/CASHAPP-Support%20Me!-brightgreen?style=for-the-badge&logo=cashapp">
