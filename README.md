@@ -30,9 +30,3 @@ Contact:
 <a href = "mailto:35tech@protonmail.com"><img src ="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 
 <a href = "https://app.gitter.im/#/room/#tech35_community:gitter.im"><img src="https://img.shields.io/badge/%20GiTTER-red?style=for-the-badge&logo=gitter"></a>
-
-----------
-
-Support me and help me buy a better computer!
-
-<a href = "https://cash.app/$tech3510"><img src = "https://img.shields.io/badge/CASHAPP-Support%20Me!-brightgreen?style=for-the-badge&logo=cashapp">
