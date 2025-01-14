@@ -22,12 +22,16 @@ I'm Bilawal Asghar (tech35), a developer skilled in Python and currently focused
 
 <br>
 
+----------
+
+
+
 <!-- Skills -->
 
+Skills:
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,python,java,flask,django,dart" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,rust,java,cpp,c,flask,django,fastapi,postgresql,aws,docker,linux,ubuntu,pytorch,react,git,github,matlab,js,html,css,swift,pycharm,anaconda&perline=8&theme=dark" alt="My Skills">
 </p>
 
 ----------
