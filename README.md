@@ -1,7 +1,14 @@
 <!-- Widget for stats -->
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=tech35&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
+
+I'm Bilawal Asghar (tech35), a developer skilled in Python and currently focused on mastering Rust for high-performance and system-level programming.
+
+
 ----------
+
+
+
 <!-- Widget for profile views -->
 
 <div align="center">
