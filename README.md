@@ -12,11 +12,6 @@
 
 <br>
 
-<!-- Donation link -->
-
-<p align="center">
-  <a href = "https://tech35.github.io/other/Donations.html"><img src="https://img.shields.io/badge/Donations%20Link%20-%20black?style=for-the-badge&logo=cashapp"></a>
-</p>
 
 <br>
 
